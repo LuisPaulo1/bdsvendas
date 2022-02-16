@@ -5,7 +5,7 @@ BDS Vendas
 Esta aplicação consiste em exibir um dashboard a partir de dados fornecidos por um backend construído com Spring Boot.
 
 ## Layouts da aplicação
-![Web_1](https://github.com/LuisPaulo1/assets/blob/master/bdsvendas/home-gif.gif)
+![Web_1](https://github.com/LuisPaulo1/assets/blob/master/bdsvendas/home.gif)
 
 ## Collection do Postman
 Importar o link no Postman: https://www.getpostman.com/collections/163557679d4dd01d9fde
