@@ -7,7 +7,6 @@ Esta aplicação consiste em exibir um dashboard a partir de dados fornecidos po
 ## Layouts da aplicação
 ![Web_1](https://github.com/LuisPaulo1/assets/blob/master/bdsvendas/home.jpeg)
 
-###
 ![Output sample](https://github.com/LuisPaulo1/assets/blob/master/bdsvendas/home-gif.gif)
 
 ## Collection do Postman
