@@ -1,0 +1,31 @@
+.filter-store-container {
+  background: #ffffff;
+  border-radius: 5px;
+}
+
+.select-container {
+  padding: 40px 15px;
+}
+
+.store-filter-select__indicator-separator {
+  display: none;
+}
+
+.store-filter-select__single-value {
+  font-size: 16px;
+  line-height: 18px;
+  display: flex;
+  align-items: center;
+  letter-spacing: -0.015em;
+  color: #8d8d8d !important;
+}
+
+@media (min-width: 576px) {
+  .store-filter-select__control {
+    width: 270px;
+  }
+
+  .select-container {
+    padding: 30px 40px;
+  }
+}
